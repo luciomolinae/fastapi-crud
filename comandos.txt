@@ -1,0 +1,17 @@
+# Abrir Anaconda terminal
+
+# Ir a la carpeta del proyecto
+
+# Ejecutar 'conda create --name fastapi-crud-restapi python=3'
+
+# Para activar en entorno virtual ejecutar 'conda activate fastapi-crud-restapi'
+
+# Para desactivarlo ejecutar 'conda desactivate' *luego de haberlo activado
+
+# Para abrir el entorno en VSC 'code .'
+
+# Instalar FastAPI 'pip install fastAPI'
+
+# Instalar uvicorn 'pip install uvicorn'
+
+# Crea el archivo requeriments.txt 'pip freeze > requeriments.txt'
